@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themegarth
 - 👀 I’m interested in Frontend HTML/React temlate development.
-- 🌱 I’m currently learning JavaScripts, PHP, WordPress
+- 🌱 I’m currently working with JavaScripts and WordPress.
 - 💞️ I’m looking to collaborate on ThemeForest
 - 📫 How to reach me ... themegarth@gmail.com
 
